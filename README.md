@@ -1,4 +1,4 @@
-# MobileOffloading
+# Mobile Offloading
 
 In this project, I built a distributed computing infrastructure using smartphones, implementing the concept of mobile offloading through the master-slave model of communication. I used this infrastructure for monitoring battery levels of the slave nodes and also to perform computationally intensive operations such as matrix multiplication more efficiently.
 
